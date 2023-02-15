@@ -1,0 +1,121 @@
+processor	: 0
+vendor_id	: AuthenticAMD
+cpu family	: 6
+model		: 6
+model name	: Android 32-bit virtual processor
+stepping	: 3
+microcode	: 0x1000065
+cpu MHz		: 3892.602
+cache size	: 512 KB
+physical id	: 0
+siblings	: 4
+core id		: 0
+cpu cores	: 4
+apicid		: 0
+initial apicid	: 0
+fdiv_bug	: no
+f00f_bug	: no
+coma_bug	: no
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 13
+wp		: yes
+flags		: fpu de pse tsc msr pae mce cx8 apic sep pge cmov pat mmx fxsr sse sse2 ht pni ssse3 hypervisor cmp_legacy vmmcall
+bugs		: fxsave_leak
+bogomips	: 7785.20
+clflush size	: 32
+cache_alignment	: 32
+address sizes	: 32 bits physical, 0 bits virtual
+power management:
+
+processor	: 1
+vendor_id	: AuthenticAMD
+cpu family	: 6
+model		: 6
+model name	: Android 32-bit virtual processor
+stepping	: 3
+microcode	: 0x1000065
+cpu MHz		: 3892.602
+cache size	: 512 KB
+physical id	: 0
+siblings	: 4
+core id		: 1
+cpu cores	: 4
+apicid		: 1
+initial apicid	: 1
+fdiv_bug	: no
+f00f_bug	: no
+coma_bug	: no
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 13
+wp		: yes
+flags		: fpu de pse tsc msr pae mce cx8 apic sep pge cmov pat mmx fxsr sse sse2 ht pni ssse3 hypervisor cmp_legacy vmmcall
+bugs		: fxsave_leak
+bogomips	: 12469.79
+clflush size	: 32
+cache_alignment	: 32
+address sizes	: 32 bits physical, 0 bits virtual
+power management:
+
+processor	: 2
+vendor_id	: AuthenticAMD
+cpu family	: 6
+model		: 6
+model name	: Android 32-bit virtual processor
+stepping	: 3
+microcode	: 0x1000065
+cpu MHz		: 3892.602
+cache size	: 512 KB
+physical id	: 0
+siblings	: 4
+core id		: 2
+cpu cores	: 4
+apicid		: 2
+initial apicid	: 2
+fdiv_bug	: no
+f00f_bug	: no
+coma_bug	: no
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 13
+wp		: yes
+flags		: fpu de pse tsc msr pae mce cx8 apic sep pge cmov pat mmx fxsr sse sse2 ht pni ssse3 hypervisor cmp_legacy vmmcall
+bugs		: fxsave_leak
+bogomips	: 12148.63
+clflush size	: 32
+cache_alignment	: 32
+address sizes	: 32 bits physical, 0 bits virtual
+power management:
+
+processor	: 3
+vendor_id	: AuthenticAMD
+cpu family	: 6
+model		: 6
+model name	: Android 32-bit virtual processor
+stepping	: 3
+microcode	: 0x1000065
+cpu MHz		: 3892.602
+cache size	: 512 KB
+physical id	: 0
+siblings	: 4
+core id		: 3
+cpu cores	: 4
+apicid		: 3
+initial apicid	: 3
+fdiv_bug	: no
+f00f_bug	: no
+coma_bug	: no
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 13
+wp		: yes
+flags		: fpu de pse tsc msr pae mce cx8 apic sep pge cmov pat mmx fxsr sse sse2 ht pni ssse3 hypervisor cmp_legacy vmmcall
+bugs		: fxsave_leak
+bogomips	: 11673.65
+clflush size	: 32
+cache_alignment	: 32
+address sizes	: 32 bits physical, 0 bits virtual
+power management:
+
+
